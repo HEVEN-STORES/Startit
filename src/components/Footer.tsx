@@ -69,16 +69,16 @@ const Footer = () => {
             <ul className="space-y-3">
               <li className="flex items-center space-x-2">
                 <Mail className="w-4 h-4" />
-                <span className="text-white/80">info@startit.tech</span>
+                <span className="text-white/80">startittechnologies@gmail.com</span>
               </li>
               <li className="flex items-center space-x-2">
                 <Phone className="w-4 h-4" />
-                <span className="text-white/80">+1 (555) 123-4567</span>
+                <span className="text-white/80">+91 7993822718</span>
               </li>
               <li className="flex items-start space-x-2">
                 <MapPin className="w-4 h-4 mt-1" />
                 <span className="text-white/80">
-                  123 Tech Street, Innovation City, TC 12345
+                  302 3rd Floor , Beerumguda Main Rd , Ramachandra Reddy Nagar , Hyderabad , Telangana - 502032
                 </span>
               </li>
             </ul>
